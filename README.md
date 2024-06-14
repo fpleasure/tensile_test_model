@@ -23,8 +23,6 @@ $ git clone https://github.com/fpleasure/tensile_test_model.git
 Для установки и запуска проекта, необходим [Python](https://www.python.org/) v3.7.9+.
 
 ### Установка зависимостей
-Для установки зависимостей, выполните команду:
-
 Список зависимостей находится в файле *requirements.txt*. Установить их можно с помощью следующей команды:
 ```sh
 $ pip3 install -r requirements.txt
